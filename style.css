@@ -12,3 +12,5 @@
 .about-portrait{margin:28px 0 0;width:168px}
 .about-portrait img{display:block;width:168px;height:168px;object-fit:cover;object-position:50% 30%;border-radius:8px;background:#f4f5f3}
 @media(max-width:600px){.about-portrait{margin-top:22px;width:144px}.about-portrait img{width:144px;height:144px}}
+
+.cv-downloads{display:flex;align-items:center;flex-wrap:wrap;gap:12px 24px}.cv-downloads a{white-space:nowrap}
